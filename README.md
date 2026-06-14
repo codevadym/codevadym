@@ -7,7 +7,6 @@ Fullstack Web Developer | DevOps Engeener
 I'm a 35-year-old fullstack developer with a solid background in system administration and infrastructure deployment. I build modern, responsive, and reliable web applications with a strong focus on security, scalability, and user experience. I love taking projects from idea to fully working solutions — both in code and architecture.
 
 * 🌍  I'm based in Belgium
-* 🖥️  See my portfolio at [My Web Site](http://thevadim.xyz)
 * ✉️  You can contact me at [codevadym@gmail.com](mailto:codevadym@gmail.com)
 
 ### Skills
